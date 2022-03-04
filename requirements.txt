@@ -1,2 +1,1 @@
-flask==1.1.4
-MarkupSafe
+flask==2.0.1
